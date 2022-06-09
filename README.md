@@ -2,7 +2,7 @@
 
 Source data for:
 
-"Focused ultrasound excites action potentials in mammalian peripheral neurons through the mechanically activated ion channel Piezo2"
+Hoffman, B.U., Baba, Y., Lee, S.A., Tong, C.K., Konofagou, E.E., and Lumpkin, E.A. (2022). Focused ultrasound excites action potentials in mammalian peripheral neurons in part through the mechanically gated ion channel PIEZO2. Proc Natl Acad Sci U S A 119, e2115821119.
 
 ## Dataset Citation
 
